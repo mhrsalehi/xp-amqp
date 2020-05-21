@@ -9,6 +9,8 @@ public class XpAmqpApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(XpAmqpApplication.class, args);
 		System.out.printf("Hello %s\n", "Mehrdad");
-	}
+    System.out.printf("Hello %s\n", "Mehrdad");
+
+  }
 
 }
