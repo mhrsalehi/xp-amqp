@@ -11,6 +11,9 @@ public class XpAmqpApplication {
 		System.out.printf("Hello %s\n", "Mehrdad");
     System.out.printf("Hello %s\n", "Mehrdad");
 
+    System.out.printf("Hello %s\n", "MASTERRRRRRRRRRR");
+
+
   }
 
 }
